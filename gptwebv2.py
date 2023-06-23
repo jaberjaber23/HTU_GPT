@@ -4,7 +4,7 @@ import os
 from PIL import Image 
 
 # Set the OpenAI API key 
-os.environ["OPENAI_API_KEY"] = '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' 
+os.environ["OPENAI_API_KEY"] = 'YOUR API KEY' 
 openai.api_key = os.environ["OPENAI_API_KEY"] 
 
 # Set page configuration
