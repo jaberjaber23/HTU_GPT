@@ -1,4 +1,5 @@
 # HTUGPT: Arabic Question Answering Website
+![htua](https://github.com/jaberjaber23/HTU_GPT/assets/103749727/5f6bd156-e5a7-4ac8-8962-7eac3f5fc3d0)
 
 htugpt is an Arabic question answering website that leverages advanced language models to provide accurate and helpful responses in Arabic. The website is designed to facilitate knowledge sharing and provide instant answers to a wide range of questions across various topics.
 
